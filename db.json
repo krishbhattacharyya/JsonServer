@@ -7,7 +7,9 @@
             "email": "test123@email.com",
             "dob": "20/12/2020",
             "role": "admin",
-            "companyId": 1
+            "companyId": 1,
+            "password": "test123",
+            "profilePic": ""
         },
         {
             "id": 2,
@@ -16,7 +18,9 @@
             "email": "test1234@email.com",
             "dob": "20/12/2020",
             "role": "User",
-            "companyId": 2
+            "companyId": 2,
+            "password": "test123",
+            "profilePic": ""
         },
         {
             "id": 3,
@@ -25,7 +29,9 @@
             "email": "test12345@email.com",
             "dob": "20/12/2020",
             "role": "User",
-            "companyId": 3
+            "companyId": 3,
+            "password": "test123",
+            "profilePic": ""
         }
     ],
     "companies":[
@@ -77,6 +83,24 @@
              ],
              "description":"Facebook, Inc. is an American social media conglomerate corporation based in Menlo Park, California"
         }
-
+    ],
+    "chat": [
+        {
+            "id":0,
+            "senderId":1,
+            "recieverId":2,
+            "senderName":"Krishnendu Bhattacharyya",
+            "recieverName":"Onan Saha",
+            "content":"Hi",
+            "time":"2015-03-25T12:00:00-06:30" 
+          },{
+            "id":1,
+            "senderId":2,
+            "recieverId":1,
+            "senderName":"Onan Saha",
+            "recieverName":"Krishnendu Bhattacharyya",
+            "content":"Hellow",
+            "time":"2015-03-25T12:00:00-06:45" 
+          }
     ]
 }

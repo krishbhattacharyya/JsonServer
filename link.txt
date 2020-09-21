@@ -1,3 +1,7 @@
 https://www.youtube.com/watch?v=1zkgdLZEdwM&t=233s
 
 https://gist.github.com/ZeroDragon/6707408
+
+git remote set-url origin https://github.com/krishbhattacharyya/JsonServer.git   ****
+
+https://my-json-server.typicode.com/<your-username>/<your-repo> 
