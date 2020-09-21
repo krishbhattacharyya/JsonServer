@@ -102,5 +102,19 @@
             "content":"Hellow",
             "time":"2015-03-25T12:00:00-06:45" 
           }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "userId": 1,
+            "title": "This is my first post",
+            "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+        },
+        {
+            "id": 2,
+            "userId": 2,
+            "title": "World biggest country",
+            "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+        }
     ]
 }
